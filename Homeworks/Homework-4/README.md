@@ -109,6 +109,6 @@ If a job has finished (result > 0), it updates the job status to "success", reco
 
 
 # Link to github repository
-https://github.com/Nagama30/CS332-532
+https://github.com/SuvarnaSN
 
 
